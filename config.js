@@ -1,13 +1,13 @@
 const CONFIG = {
-    titleWeb : "Tiêu đề web" ,
+    titleWeb : "Demo" ,
     introTitle : 'Gửiem <3',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    Đằng sau chữ yêu đây là thương` ,
     btnIntro: '^^HiHi^^',
-    title: 'Yêu anh nhiều hơn nha bae:33
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
+    title : 'Yêu anh nhiều hơn nha bae:33' ,
+    desc : 'Phải chăng em đã nói ngay từ khi thấy nụ cười xuất hiện' ,
     btn  Có : 'Chắc chắn rồi:3',
     btnNo: 'Không nha :3',
     question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
